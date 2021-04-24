@@ -5,9 +5,9 @@
 ##  Installation
 i) Install node package on your device\
 ii) Clone repository and go into the main directory where the src, package.json etc are located.\
-iii) In the project directory
+iii) In the project directory, run
 ### `npm install`
-It will install all the dependencies
+this will install all the dependencies
 
 
 ### 2. 
