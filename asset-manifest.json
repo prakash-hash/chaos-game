@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/chaos-game/static/css/main.2410963e.chunk.css",
+    "main.js": "/chaos-game/static/js/main.988bfd54.chunk.js",
+    "main.js.map": "/chaos-game/static/js/main.988bfd54.chunk.js.map",
+    "runtime-main.js": "/chaos-game/static/js/runtime-main.dfc8737a.js",
+    "runtime-main.js.map": "/chaos-game/static/js/runtime-main.dfc8737a.js.map",
+    "static/js/2.7e07aa20.chunk.js": "/chaos-game/static/js/2.7e07aa20.chunk.js",
+    "static/js/2.7e07aa20.chunk.js.map": "/chaos-game/static/js/2.7e07aa20.chunk.js.map",
+    "static/js/3.b92529ab.chunk.js": "/chaos-game/static/js/3.b92529ab.chunk.js",
+    "static/js/3.b92529ab.chunk.js.map": "/chaos-game/static/js/3.b92529ab.chunk.js.map",
+    "index.html": "/chaos-game/index.html",
+    "static/css/main.2410963e.chunk.css.map": "/chaos-game/static/css/main.2410963e.chunk.css.map",
+    "static/js/2.7e07aa20.chunk.js.LICENSE.txt": "/chaos-game/static/js/2.7e07aa20.chunk.js.LICENSE.txt",
+    "static/media/hexagon.f1be2b8a.png": "/chaos-game/static/media/hexagon.f1be2b8a.png",
+    "static/media/hexagon2.19ba93c0.png": "/chaos-game/static/media/hexagon2.19ba93c0.png",
+    "static/media/hexagon3.16fe7a57.png": "/chaos-game/static/media/hexagon3.16fe7a57.png",
+    "static/media/hexagon4.6d555b23.png": "/chaos-game/static/media/hexagon4.6d555b23.png",
+    "static/media/hexagon5.e412ab0c.png": "/chaos-game/static/media/hexagon5.e412ab0c.png",
+    "static/media/pentagon.039de96e.png": "/chaos-game/static/media/pentagon.039de96e.png",
+    "static/media/pentagon2.94f45813.png": "/chaos-game/static/media/pentagon2.94f45813.png",
+    "static/media/pentagon3.57597790.png": "/chaos-game/static/media/pentagon3.57597790.png",
+    "static/media/pentagon4.543d167d.png": "/chaos-game/static/media/pentagon4.543d167d.png",
+    "static/media/pentagon5.44d13033.png": "/chaos-game/static/media/pentagon5.44d13033.png",
+    "static/media/square1.8c4d1fda.png": "/chaos-game/static/media/square1.8c4d1fda.png",
+    "static/media/square2.9c6cc44e.png": "/chaos-game/static/media/square2.9c6cc44e.png",
+    "static/media/square3.5c2aeb31.png": "/chaos-game/static/media/square3.5c2aeb31.png",
+    "static/media/square4.c2adeb23.png": "/chaos-game/static/media/square4.c2adeb23.png",
+    "static/media/square5.c2302d1b.png": "/chaos-game/static/media/square5.c2302d1b.png",
+    "static/media/square6.7e7b50fc.png": "/chaos-game/static/media/square6.7e7b50fc.png",
+    "static/media/square7.2e4861e5.png": "/chaos-game/static/media/square7.2e4861e5.png",
+    "static/media/square8.cedf0b75.png": "/chaos-game/static/media/square8.cedf0b75.png",
+    "static/media/triangle1.540e72d4.jpeg": "/chaos-game/static/media/triangle1.540e72d4.jpeg",
+    "static/media/triangle2.46322547.png": "/chaos-game/static/media/triangle2.46322547.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfc8737a.js",
+    "static/js/2.7e07aa20.chunk.js",
+    "static/css/main.2410963e.chunk.css",
+    "static/js/main.988bfd54.chunk.js"
+  ]
+}
