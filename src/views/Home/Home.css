@@ -1,0 +1,27 @@
+.mycontainer{
+  background-color: black;
+  max-height: max-content;
+}
+/* .cards{ */
+    /* display: flex; */
+    /* align-items: center; */
+    /* flex-wrap: wrap; */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+
+  /* } */
+
+.shapes{
+    display: flex;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.topic{
+  font-size: 5.1vh;
+  color: #9FD8DF;
+  text-align: center;
+  padding-top: 40px;
+  text-decoration: underline;
+  line-height: 60px;
+}

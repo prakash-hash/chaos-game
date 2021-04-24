@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    font-family: 'Press Start 2P';
+    background-color: black;
+}
+
+.mysketch {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+@media screen and (orientation:portrait) {
+    .mysketch{
+        margin:25%;
+    }
+}
+
+
+.title {
+    font-size: 45px;
+    padding: 10px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
