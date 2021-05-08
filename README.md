@@ -1,4 +1,3 @@
-##### Checkout the website at - https://prakash-hash.github.io/chaos-game/
 
 ## Getting Started
 ### 1. 
